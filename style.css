@@ -1,0 +1,46 @@
+html, body {
+  height: 100%;
+  width: 100%;
+    background-color: #495867;
+}
+.row{
+  height: 7vw;
+  background-color: #495867;
+}
+.dates{
+border-color: white;
+  border-style: solid;
+   background-color: #e7ad99;
+}
+h1{
+  font-size: 1vw;
+   font-family: 'Libre Baskerville', serif;
+  color: white
+}
+.weekDate{
+   float: left;
+  padding-top: 5%;
+}
+.header{
+    text-align: center;
+}
+h3{
+    font-size: 7vw;
+  font-family: 'Libre Baskerville', serif;
+  color: white;
+
+}
+h2{
+  font-size: 1.5vw;
+  font-family: 'Antonio', sans-serif;
+
+}
+.col.weekDate{
+  width: 7vw;
+}
+.otherMonth{
+  opacity: 0%;
+}
+.weekend{
+  background-color: #ce796b;
+}
